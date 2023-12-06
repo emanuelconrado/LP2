@@ -1,1 +1,1 @@
-# LP2
+# Repositório destino a disciplina de Linguagem da programção 2
