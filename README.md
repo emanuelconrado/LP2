@@ -1,1 +1,1 @@
-# Repositório destinado a disciplina de Linguagem da programção 2
+# Repositório destinado a disciplina de Linguagem da programação 2
